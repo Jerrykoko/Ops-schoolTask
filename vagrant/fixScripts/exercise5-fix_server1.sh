@@ -1,2 +1,3 @@
-#!/bin/bash
-#add fix to exercise5-server1 here
+sudo nano ssh_config
+# set the value of 'stricthostkeychecking' to 'no' and uncomment it
+stricthostkeychecking no
